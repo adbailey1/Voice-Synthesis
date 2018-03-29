@@ -1,0 +1,1 @@
+In order to experiment with this programme please download PureData extended. Once this is installed simply open this file with PureData.To begin, make sure the Sound_On/Off button is checked and then simply press the variety of buttons corresponding to vowel sounds, monothongs and diphthongs or to hear the male/female/whisper synthesis of the word ‘shake’.
